@@ -25,7 +25,7 @@
             $d = "mas ainda não pode dirigir";
         }elseif( $i >= 18 && $i < 60){
             $v = "deve votar";
-            $d = "e pode digir";
+            $d = "e pode dirigir";
         }elseif($i >  60){
             $v = "não é obrigado a votar";
             $d = "mas ainda pode dirigir";
@@ -41,7 +41,7 @@
     <p><a href="aula09_estrutcond.html"><input type="button" value="voltar"></a></p>
     </section>
     <footer>
-        <p>&copy; Cursoemvideo</p>
+        <p>&copy;</p>
     </footer>
     
 </body>
