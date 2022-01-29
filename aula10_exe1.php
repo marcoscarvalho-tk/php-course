@@ -34,7 +34,7 @@
     <p><a href="aula10_switch.html"><input type="button" value="voltar"></a></p>
     </section>
     <footer>
-        <p>&copy; Cursoemvideo</p>
+        <p>&copy;</p>
     </footer>
     
 </body>
