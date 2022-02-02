@@ -29,7 +29,7 @@
     
     </section>
     <footer>
-        <p>&copy; Cursoemvideo</p>
+        <p>&copy;</p>
     </footer>
     
 </body>
