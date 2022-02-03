@@ -25,7 +25,7 @@
     <p><a href="javascript:history.go(-1)"><input type="button" value="voltar"></a></p>
     </section>
     <footer>
-        <p>&copy; Cursoemvideo</p>
+        <p>&copy;</p>
     </footer>
     
 </body>
