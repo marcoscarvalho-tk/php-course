@@ -1,0 +1,41 @@
+body{
+    background: rgb(68, 142, 212);
+    font: normal 25pt Arial
+
+}
+header{
+    color: white;
+    text-align: center;
+
+}
+section{
+    text-align: center;
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    min-height: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.452);
+    
+
+}
+.inpt{
+    font:normal bold 15pt Poppins;
+    background-color: aliceblue;
+    border-radius: 10px;
+    color: #616060;
+    width: 170px;
+    outline-style: none;
+    padding: 5px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+a{
+    text-decoration: none;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
