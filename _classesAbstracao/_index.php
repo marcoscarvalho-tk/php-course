@@ -25,7 +25,7 @@
             // este processo pode/deve ser feita em uma pg separada.
             // para acessar a mesma basta fazer um 'require' com o nome da pg
             
-            # o conceito de abistração visa introduzir o uso de uma função/metodo comum.
+            # o conceito de abstração visa introduzir o uso de uma função/metodo comum.
             # ou seja, uma classe "cavalo" executa uma função de uma classe "animal" por ex. 
             # sendo assim cada classe herda e executa a função da classe "Animal"
            
@@ -51,7 +51,7 @@
         ?>  
         </section>
         <footer>
-            <p>&copy;B7Web</p>  
+            <p>&copy;</p>  
         </footer>      
     </div>   
     
