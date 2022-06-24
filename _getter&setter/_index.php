@@ -60,7 +60,7 @@
         ?>  
         </section>
         <footer>
-            <p>&copy;B7Web</p>  
+            <p>&copy;</p>  
         </footer>      
     </div>   
     
